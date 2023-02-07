@@ -4,3 +4,4 @@ This repository contains a collection of coursework and assignments completed du
 
 ## List of Courses
 - [Machine Learning](./MachineLearning)
+- [AI in Games](./AIinGames)
