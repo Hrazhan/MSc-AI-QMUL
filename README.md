@@ -7,3 +7,4 @@ This repository contains a collection of coursework and assignments completed du
 - [AI in Games](./AIinGames)
 - [Artificial Intelligence](./AI)
 - [Natural Language Processing](./NLP)
+- [Deep Learning & Computer Vision](./DLCV)
